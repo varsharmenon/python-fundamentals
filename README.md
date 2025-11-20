@@ -12,16 +12,16 @@ The code is organised into folders based on topic so everything stays neat and r
 ### **1. basics/**
 Simple introductory programs—mostly logic, loops, and conditionals.
 
-- `Digits_of_num.py`
-- `Leap_Year.py`
-- `Multiplication_Table.py`
+- `digits_of_num.py`
+- `leap_year.py`
+- `multiplication_table.py`
 
 ### **2. strings/**
 Programs that work with Python strings and character operations.
 
 - `reverse_string.py`
-- `substring.py`
-- `word_count.py`
+- `is_palindrome.py`
+- `vowel_count.py`
 
 ### *(coming soon)*
 
