@@ -1,4 +1,4 @@
-# Python Fundamentals – Kukku
+# Python Fundamentals
 
 A collection of beginner–friendly Python programs I’m writing while learning the basics of programming.  
 This repo is where I practise logic, conditionals, loops, and small algorithmic problems.
