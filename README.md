@@ -3,7 +3,6 @@
 A collection of beginner–friendly Python programs I’m writing while learning the basics of programming.  
 This repo is where I practise logic, conditionals, loops, and small algorithmic problems.
 
-The code is organised into folders based on topic so everything stays neat and readable.
 
 ---
 
