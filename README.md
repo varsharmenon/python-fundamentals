@@ -23,10 +23,12 @@ Programs that work with Python strings and character operations.
 - `is_palindrome.py`
 - `vowel_count.py`
 
-### *(coming soon)*
-
 ### **3. list_dictionary/**
-Some basic programs which requires list and dictionary applications
+Some basic programs which requires list and dictionary applications.
+
+-  `list_operations_menu.py`
+
+### *(coming soon)*
 
 ### **4. math/**
 Fundamental math + algorithmic problems  
